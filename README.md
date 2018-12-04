@@ -21,7 +21,11 @@ The repo contain this two bioinspired algorithm:
 
 
 
+##### Contributors
 
+- @muriloHoracio
+- @LucasOAlves
+- @Giianmachado
 
 
 
